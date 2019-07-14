@@ -31,8 +31,7 @@ int main()
                 counter++;
             uni[j]=true;
         }
-        cout<<counter;
-
+        cout<<"Number of unique words: "<<counter<<endl;
         return 0;
 
 }
